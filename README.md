@@ -1,1 +1,2 @@
 - 👋 Hi, I’m @SteveJohnsAI.
+- I'm a newbie programmer, learning Python to get into AI & ML.
