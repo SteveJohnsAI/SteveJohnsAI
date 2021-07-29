@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SteveJohnsAI. I'm an Electronics & Communication Engineer, Freelance video editor and co-founder of a podcast production company(Hophead Media). (I'm into both Science & Art)
+- 👀 I’m interested in Artificial Intelligence and Machine Learning and currently working my way up to get proficient in the field by self study. 
+- 🌱 I’m currently learning python to get into AI & ML as soon as possible. Hopefully in a few months I should be be able to get into it. 
